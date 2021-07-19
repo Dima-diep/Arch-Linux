@@ -5,5 +5,5 @@ OS system = Termux
 install:
 ```
 $ chmod +x *
-$ ./arch-linux-installer-iso.sh
+$ bash arch-linux-installer-iso.sh
 ```
